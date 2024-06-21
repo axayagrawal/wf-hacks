@@ -1,4 +1,4 @@
-<script>
+
 // when the DOM is ready
 $(document).ready(function() {
   // make an array of invalid domains from CSV
@@ -182,4 +182,3 @@ $(document).ready(function() {
     }
   });
 });
-</script>
