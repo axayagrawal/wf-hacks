@@ -15,8 +15,12 @@ This JavaScript script validates email domains against a predefined list of inva
 2. **Include the JavaScript Code:**
    Add the JavaScript code to your project, preferably before the closing </body> tag. The code should contain an array of invalid domains and logic to validate the email input.
 
-   **List of Invalid Domains**
-   The following is a list of invalid domains used in the script:
+   ```html
+      <!-- Only Work Emails -->
+      <script src="https://cdn.jsdelivr.net/gh/axayagrawal/wf-hacks@main/email-blocker/email-blocker.js"></script>
+
+**List of Invalid Domains**
+The following is a list of invalid domains used in the script:
 
 - att.net
 - comcast.net
